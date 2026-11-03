@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:padding="16dp">
+        <!-- Общий стиль применяется к каждому текстовому полю. -->
+        <TextView
+            style="@style/style1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/lab_title" />
+        <TextView style="@style/style1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/lab_topic" android:gravity="center_horizontal" />
+
+        <TextView
+            style="@style/style1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/student_name" />
+
+        <TextView
+            style="@style/style1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/student_group" />
+
+
+    </LinearLayout>
+</ScrollView>

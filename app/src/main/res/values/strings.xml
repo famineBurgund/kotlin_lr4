@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ЛР4 — Стили и темы</string>
+    <string name="lab_title">Лабораторная работа №4</string>
+    <string name="lab_topic">Стили и темы</string>
+    <string name="student_name">Карасюк Евгений Алексеевич</string>
+    <string name="student_group">Группа БОМ41ПРИ</string>
+    <string name="show_styles">Показать стили</string>
+    <string name="back_to_theme">Назад к теме</string>
+    <string name="original_title">Исходные размеры</string>
+    <string name="original_10">Текст 10 sp</string>
+    <string name="original_14">Текст 14 sp</string>
+    <string name="original_28">Текст 28 sp</string>
+    <string name="original_36">Текст 36 sp</string>
+    <string name="styled_title">Общий стиль style1</string>
+    <string name="styled_one">Первый текст</string>
+    <string name="styled_two">Второй текст</string>
+    <string name="styled_three">Третий текст</string>
+    <string name="styled_four">Четвёртый текст</string>
+    <string name="inherited_title">Наследник style1.bigfont</string>
+    <string name="large_text">50 sp</string>
+</resources>

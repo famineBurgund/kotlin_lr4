@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lab_background">#5F604400</color>
+    <color name="lab_window">#211D18</color>
+    <color name="lab_text">#FFF1D6</color>
+</resources>

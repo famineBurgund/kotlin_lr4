@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android выбирает эту тему автоматически при системном ночном режиме. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Dialog.Alert">
+        <item name="android:background">@color/lab_background</item>
+        <item name="android:windowBackground">@color/lab_window</item>
+        <item name="android:textColor">@color/lab_text</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+</resources>
